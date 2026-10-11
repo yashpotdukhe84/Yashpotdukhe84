@@ -67,12 +67,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00C9FF/yashpotdukhe84" alt="Contribution graph" width="90%"/>
-</p>
-
 ---
 
 ## 🎯 Currently Focusing On
