@@ -26,16 +26,6 @@
 - 🌱 Strengthening Java, Data Structures & Algorithms and SQL
 - 🎯 **Goal:** Build impactful software and keep growing as a developer
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,react,nodejs,mysql,mongodb,git,github,vscode&perline=7" alt="Tech Stack"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
